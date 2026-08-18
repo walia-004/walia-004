@@ -1,5 +1,9 @@
 # 💫 About Me:
-Dedicated and results-driven Data Analyst with a strong foundation in programming, database management, and data visualization. Holds a Bachelor's degree in Information Technology from GLS University and is currently pursuing a Master of Computing (Data Analytics) at University of Wollongong India. Research abstract accepted for oral presentation at AIMS 2025 — an international conference organized by IIT Delhi–Abu Dhabi. Passionate about turning complex datasets into actionable insights, building AI-powered tools, and solving real-world problems through machine learning and data-driven decision-making.
+Data Analyst & Data Engineer with hands-on industry experience in Python, SQL, data analytics, machine learning, GCP/BigQuery, data validation, data quality, and automation. Holds a Bachelor of Science in Information Technology from GLS University and is currently pursuing a Master of Computing (Data Analytics) at the University of Wollongong India.
+
+Recently worked as a Data Engineer Intern at Adani Green Energy Limited (AGEL), where I worked on DSM and NOC data validation, Python-based business calculations, GCP data quality checks, and automated API failure alerting. Experienced in transforming complex datasets into reliable insights, improving data workflows, and building automation solutions for real-world operational requirements.
+
+Passionate about data engineering, analytics, machine learning, and AI-powered solutions. Research abstract accepted for oral presentation at AIMS 2025, an international conference organized by IIT Delhi–Abu Dhabi.
 
 
 ## 🌐 Socials:
